@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492884293 source:/home/mary/Escritorio/Proyecto_2/main.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
