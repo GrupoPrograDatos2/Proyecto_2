@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1494396001 source:/home/chanchus/codeblocks/GeneticGladiator/src/main.cpp
+	"main.h"
+	"Constants.h"
+	<allegro.h>
+	<allegro_font.h>
+	<allegro_ttf.h>
+	<allegro_native_dialog.h>
+	<allegro_primitives.h>
+	<allegro_image.h>
+	<iostream>
+	"Button.h"
+	"Gladiator.h"
+
+1493181445 /home/chanchus/codeblocks/GeneticGladiator/include/main.h
+
+1493685724 /home/chanchus/codeblocks/GeneticGladiator/include/Constants.h
+
+1493760628 source:/home/chanchus/codeblocks/GeneticGladiator/src/Button.cpp
+	"Button.h"
+	<iostream>
+
+1493722545 /home/chanchus/codeblocks/GeneticGladiator/include/Button.h
+	<allegro.h>
+	<allegro_image.h>
+
+1494360320 source:/home/chanchus/codeblocks/GeneticGladiator/src/Gladiator.cpp
+	"Gladiator.h"
+
+1494325219 /home/chanchus/codeblocks/GeneticGladiator/include/Gladiator.h
+	<allegro.h>
+	<allegro_image.h>
+	<allegro_audio.h>
+	<allegro_acodec.h>
+	<string>
+
