@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1492884293 source:/home/mary/Escritorio/Proyecto_2/main.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1492884293 source:c:\users\usuario\desktop\proyecto_2\main.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1495302327 source:c:\users\usuario\desktop\proyecto_2\src\gladiador.cpp
+	"Gladiador.h"
+
+1495302360 c:\users\usuario\desktop\proyecto_2\include\gladiador.h
+	<iostream>
+
+1495303794 source:c:\users\usuario\desktop\proyecto_2\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1495305479 c:\users\usuario\desktop\proyecto_2\include\lista.h
+	"Nodo.h"
+	"Gladiador.h"
+	<cstddef>
+
+1495301852 source:c:\users\usuario\desktop\proyecto_2\src\algoritmo_genetico.cpp
+	"Algoritmo_Genetico.h"
+	"Gladiador.h"
+	<cstdlib>
+	<iostream>
+	<sstream>
+	<string>
+
+1495301572 c:\users\usuario\desktop\proyecto_2\include\algoritmo_genetico.h
+	<Lista.h>
+	"Gladiador.h"
+
+1495300427 c:\users\usuario\desktop\proyecto_2\include\nodo.h
+	<cstddef>
+	"Gladiador.h"
+
+1495300515 source:c:\users\usuario\desktop\proyecto_2\src\nodo.cpp
+	"Nodo.h"
+	<cstddef>
+
+1495305464 source:c:\users\usuario\desktop\proyecto_2\src\algoritmo_genético.cpp
+	"Algoritmo_Genético.h"
+	<stdlib.h>
+
+1495305371 c:\users\usuario\desktop\proyecto_2\include\algoritmo_genético.h
+	"Gladiador.h"
+	"Lista.h"
+
+1495314316 source:c:\users\usuario\desktop\proyecto_2 - copia\main.cpp
+	<iostream>
+
+1495305464 source:c:\users\usuario\desktop\proyecto_2 - copia\src\algoritmo_genético.cpp
+	"Algoritmo_Genético.h"
+	<stdlib.h>
+
+1495305371 c:\users\usuario\desktop\proyecto_2 - copia\include\algoritmo_genético.h
+	"Gladiador.h"
+	"Lista.h"
+
+1495315827 c:\users\usuario\desktop\proyecto_2 - copia\include\gladiador.h
+	<iostream>
+	<string>
+
+1495305479 c:\users\usuario\desktop\proyecto_2 - copia\include\lista.h
+	"Nodo.h"
+	"Gladiador.h"
+	<cstddef>
+
+1495316073 c:\users\usuario\desktop\proyecto_2 - copia\include\nodo.h
+	<cstddef>
+	"Gladiador.h"
+
+1495316753 source:c:\users\usuario\desktop\proyecto_2 - copia\src\gladiador.cpp
+	"Gladiador.h"
+	<stdlib.h>
+
+1495303794 source:c:\users\usuario\desktop\proyecto_2 - copia\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<iostream>
+	<stdexcept>
+
+1495317584 source:c:\users\usuario\desktop\proyecto_2 - copia\src\main.cpp
+	"main.h"
+	"Gladiador.h"
+	"Lista.h"
+	"Algoritmo_Genético.h"
+	<stdlib.h>
+
+1495315134 c:\users\usuario\desktop\proyecto_2 - copia\include\main.h
+
+1495316019 source:c:\users\usuario\desktop\proyecto_2 - copia\src\nodo.cpp
+	"Nodo.h"
+	<cstddef>
+
