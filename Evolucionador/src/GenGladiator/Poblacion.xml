@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<evolucionador>
+  <Goliath0 id="0">
+    <fitness>363</fitness>
+  </Goliath0>
+  <Goliath1 id="1">
+    <fitness>279</fitness>
+  </Goliath1>
+  <Goliath2 id="2">
+    <fitness>417</fitness>
+  </Goliath2>
+  <Goliath3 id="3">
+    <fitness>249</fitness>
+  </Goliath3>
+  <Goliath4 id="4">
+    <fitness>372</fitness>
+  </Goliath4>
+  <Goliath5 id="5">
+    <fitness>266</fitness>
+  </Goliath5>
+  <HijoGoliath0Goliath1 id="6">
+    <fitness>395</fitness>
+  </HijoGoliath0Goliath1>
+  <HijoGoliath2Goliath3 id="7">
+    <fitness>357</fitness>
+  </HijoGoliath2Goliath3>
+  <HijoGoliath4Goliath5 id="8">
+    <fitness>318</fitness>
+  </HijoGoliath4Goliath5>
+  <Estadisticas_Poblacion>
+    <inversiones>0</inversiones>
+    <mutaciones>0</mutaciones>
+    <resultadofinal>resultadofinal</resultadofinal>
+  </Estadisticas_Poblacion>
+</evolucionador>
+
